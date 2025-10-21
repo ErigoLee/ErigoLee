@@ -25,6 +25,7 @@
 - I created a simple first-person RPG game using a Transformer-based architecture.
 
 ### [PacMan](https://github.com/ErigoLee/game-dev-fall2025-Pacman)
+- [Playable link](https://erigolee.github.io/game-dev-fall2025-Pacman/Pacman_version2_Builds/)
 - Implemented an abstract Item class and created derived classes such as AppleItem and OrangeItem, which can be collected into the inventory.
 - Added an Observer pattern in GameManager so that when the player collects inventory items or frozen enemies, they are added to the inventory.
 - Integrated the Observer pattern in GameManager to update game UI and play sound effects when the player collects coins, obtains a big reward, or takes damage from enemies.
