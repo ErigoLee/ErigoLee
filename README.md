@@ -22,7 +22,7 @@
 
 ### [Platformer Game - Whispering Locks](https://github.com/ErigoLee/game-dev-spring2025)
 - [Playable link](https://erigolee.github.io/game-dev-spring2025/builds/final/AdjustBegScreen/Platformer/)
--I created a simple first-person RPG game using a Transformer-based architecture.
+- I created a simple first-person RPG game using a Transformer-based architecture.
 
 ### [PacMan](https://github.com/ErigoLee/game-dev-fall2025-Pacman)
 - Implemented an abstract Item class and created derived classes such as AppleItem and OrangeItem, which can be collected into the inventory.
