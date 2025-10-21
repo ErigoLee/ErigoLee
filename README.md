@@ -3,7 +3,7 @@
 
 ## Projects
 
-### Software Engineering Projects
+### 1. Software Engineering Projects
 ### [Applications-of-Generative-AI-Final-Project](https://github.com/ErigoLee/Applications-of-Generative-AI-Final-Project)
 - Applications-of-Generative-AI-Final-Project is a project that allows users to compose songs — both lyrics and music — in their desired style through AI prompts.
 - It is built using the MusicGen Model, Gemini 1.5 Pro (by Google), and the YourTTS model.
@@ -12,10 +12,10 @@
 - scala-compiler is a project that builds a Scala language compiler using Python.
 - It tokenizes, parses, and interprets Scala programming language code through Python.
 
-### APP projects
+### 2. APP projects
 
 
-### Game Projects
+### 3. Game Projects
 ### [GameProgramming2-Shooting-the-Emery-EN](https://github.com/ErigoLee/GameProgramming2-Shooting-the-Emery-EN)
 - GameProgramming2-Shooting-the-Emery-EN is a first-person RPG game where the player takes on the role of a soldier armed with a gun to defeat enemies.
 - The game is developed based on an FSM (Finite State Machine) architecture.
