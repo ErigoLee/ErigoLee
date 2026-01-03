@@ -13,7 +13,9 @@
 - It tokenizes, parses, and interprets Scala programming language code through Python.
 
 ### 2. APP projects
-
+### [mental-health-web-app](https://github.com/moodmap-team/mental-health-web-app)
+- MoodMap is a web application project designed to record users’ mood, sleep, and diet.
+- Based on these records, the application visualizes patterns, helping users recognize trends that might otherwise go unnoticed.
 
 ### 3. Game Projects
 ### [GameProgramming2-Shooting-the-Emery-EN](https://github.com/ErigoLee/GameProgramming2-Shooting-the-Emery-EN)
