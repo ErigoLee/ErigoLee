@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErigoLee&show_icons=true&theme=radical)
 ## Projects
 
 ### 1. Software Engineering Projects
